@@ -1,5 +1,5 @@
 '''
-Program mase in: 16/04/2020
+Program made in: 16/04/2020
 Authors: Misha08, OrangoMango
 Language: Python 3 Tkinter
 '''
